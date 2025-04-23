@@ -5,7 +5,6 @@ Created using Twine, this interactive narrative explores the tension between con
 
 ## Play It Here  
 https://miajamarra.github.io/Spector/  
-https://twinery.org/2/#/stories/d5d6c9de-7af8-4534-831e-ce9029475da0/play
 
 ## About the Story
 
